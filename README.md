@@ -1,3 +1,4 @@
 # java-design-pattern
 
-* [Observer Pattern](./java-design-pattern-observer)
+* [Observer Pattern](./java-design-patterns-observer)
+* [Singleton Pattern](./java-design-patterns-singleton)

@@ -9,7 +9,7 @@ import java.util.Collections;
 /**
  * Created by mradul on 31/07/17.
  */
-public class Test {
+public class Main {
 
     public static void main(String[] args) {
 
